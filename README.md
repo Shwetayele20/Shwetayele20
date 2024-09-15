@@ -1,3 +1,4 @@
+![logo](https://github.com/Shwetayele20/Shwetayele20/blob/main/Image_Tech_Job_Software_Developer_LandingPage.png)
 <h1 align="center">Hi 👋, I'm Shweta Yele</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
