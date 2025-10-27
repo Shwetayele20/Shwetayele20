@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shwetayele20&label=Profile%20views&color=0e75b6&style=flat" alt="shwetayele20" /> </p>
 
-- 🌱 I’m currently learning **react, node.js**
+- 🌱 I’m currently learning **react.js, node.js**
 
-- 📫 How to reach me **shwetayele20@gmail.com**
+- 📫 How to reach me **Shweta Yele**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
