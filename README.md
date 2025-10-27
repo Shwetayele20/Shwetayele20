@@ -6,14 +6,14 @@
 
 #### Languages and Technologies
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-483D8B?style=for-the-badge&logo=HTML5&logoColor=white" alt="html" /> &nbsp; &nbsp;
-  <img src="https://img.shields.io/badge/CSS3-2E8B57?style=for-the-badge&logo=CSS3&logoColor=white" alt="css" /> &nbsp; &nbsp;
-  <img src="https://img.shields.io/badge/JAVASCRIPT-8B0000?style=for-the-badge&logo=javascript&logoColor=white" alt="javascript" /> &nbsp; &nbsp;
-  <img src="https://img.shields.io/badge/BOOTSTRAP-7B68EE?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" /> &nbsp; &nbsp;
-  <img src="https://img.shields.io/badge/REACTJS-DCDCDC?style=for-the-badge&logo=reactjs&logoColor=orange" alt="reactjs" /> &nbsp; &nbsp;
-   <img src="https://img.shields.io/badge/NODEJS-F8F08F0?style=for-the-badge&logo=nodejs&logoColor=black" alt="nodejs" /> &nbsp; &nbsp;
+  <img src="https://img.shields.io/badge/HTML5-F87B1B?style=for-the-badge&logo=HTML5&logoColor=white" alt="html" /> &nbsp; &nbsp;
+  <img src="https://img.shields.io/badge/CSS3-4E61D3?style=for-the-badge&logo=CSS3&logoColor=white" alt="css" /> &nbsp; &nbsp;
+  <img src="https://img.shields.io/badge/JAVASCRIPT-FFC50F?style=for-the-badge&logo=javascript&logoColor=white" alt="javascript" /> &nbsp; &nbsp;
+  <img src="https://img.shields.io/badge/BOOTSTRAP-8C00FF?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" /> &nbsp; &nbsp;
+  <img src="https://img.shields.io/badge/REACTJS-211832?style=for-the-badge&logo=reactjs&logoColor=blue" alt="reactjs" /> &nbsp; &nbsp;
+   <img src="https://img.shields.io/badge/NODEJS-E0D9D9?style=for-the-badge&logo=nodejs&logoColor=black" alt="nodejs" /> &nbsp; &nbsp;
   <img src="https://img.shields.io/badge/EXPRESSJS-7B68EE?style=for-the-badge&logo=express&logoColor=white" alt="express" /> &nbsp; &nbsp;
-  <img src="https://img.shields.io/badge/MYSQL-8A2BE2?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" /> &nbsp; &nbsp;
+  <img src="https://img.shields.io/badge/MYSQL-5A9690?style=for-the-badge&logo=mysql&logoColor=orange" alt="mysql" /> &nbsp; &nbsp;
 </p>
 
 <hr>
