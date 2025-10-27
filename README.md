@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/CSS3-4E61D3?style=for-the-badge&logo=CSS3&logoColor=white" alt="css" /> &nbsp; &nbsp;
   <img src="https://img.shields.io/badge/JAVASCRIPT-FFC50F?style=for-the-badge&logo=javascript&logoColor=white" alt="javascript" /> &nbsp; &nbsp;
   <img src="https://img.shields.io/badge/BOOTSTRAP-8C00FF?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" /> &nbsp; &nbsp;
-  <img src="https://img.shields.io/badge/REACTJS-211832?style=for-the-badge&logo=reactjs&logoColor=blue" alt="reactjs" /> &nbsp; &nbsp;
+  <img src="https://img.shields.io/badge/REACTJS-211832?style=for-the-badge&logo=reactjs&logoColor=91C4C3" alt="reactjs" /> &nbsp; &nbsp;
    <img src="https://img.shields.io/badge/NODEJS-E0D9D9?style=for-the-badge&logo=nodejs&logoColor=black" alt="nodejs" /> &nbsp; &nbsp;
   <img src="https://img.shields.io/badge/EXPRESSJS-7B68EE?style=for-the-badge&logo=express&logoColor=white" alt="express" /> &nbsp; &nbsp;
   <img src="https://img.shields.io/badge/MYSQL-5A9690?style=for-the-badge&logo=mysql&logoColor=orange" alt="mysql" /> &nbsp; &nbsp;
