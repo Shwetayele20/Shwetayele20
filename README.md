@@ -35,7 +35,7 @@
       📫 How to reach me: Scroll down <br>
     </td>
     <td>
-      <img  alt="GIF" src="https://github.com/shweta/shweta/blob/main/programmer.gif?raw=true" width="400" height="256" /><br>
+      <img  alt="GIF" src="https://github.com/Shwetayele20/Shwetayele20/blob/main/programmer.gif" width="400" height="256" /><br>
     </td>
   </tr>
 </table>
