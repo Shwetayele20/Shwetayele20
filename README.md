@@ -6,7 +6,7 @@
 
 #### Languages and Technologies
 <p align="left">
-  <img src="https://img.shields.io/badge/PYTHON-483D8B?style=for-the-badge&logo=python&logoColor=white" alt="html" /> &nbsp; &nbsp;
+  <img src="https://img.shields.io/badge/HTML5-483D8B?style=for-the-badge&logo=HTML5&logoColor=white" alt="html" /> &nbsp; &nbsp;
   <img src="https://img.shields.io/badge/DJANGO-2E8B57?style=for-the-badge&logo=django&logoColor=white" alt="css" /> &nbsp; &nbsp;
   <img src="https://img.shields.io/badge/JAVA-8B0000?style=for-the-badge&logo=java&logoColor=white" alt="javascript" /> &nbsp; &nbsp;
   <img src="https://img.shields.io/badge/PHP-7B68EE?style=for-the-badge&logo=php&logoColor=white" alt="bootstrap" /> &nbsp; &nbsp;
